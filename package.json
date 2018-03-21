@@ -1,0 +1,16 @@
+{
+  "name": "timestamp_project",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Timestamp API project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R.C. Long",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jest": "^22.4.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
